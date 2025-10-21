@@ -1,4 +1,4 @@
-# Proxmox-Internal-Backup
+# Proxmox Internal Backup
 ## Backup internal proxmox host folders
 
 1. Clone the repo
